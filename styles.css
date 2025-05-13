@@ -82,7 +82,11 @@ button {
     background-color: hsl(0, 0%, 20%);
     color: white;
     font-size: 12px;
+}
 
+button:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
 }
 
 .attribution {
